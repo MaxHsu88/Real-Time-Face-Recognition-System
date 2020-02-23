@@ -3,11 +3,11 @@
 This project aims to build a real time system in not noly detecting human faces but also recognizing the identity of each face.
 Currently, this system is built on [self-collected datasets](my_own_dataset), in which are there 6 distinct figures, including myself, my partner, my lecturer and also 3 public figures.
 
-Demo video can be found [here](https://www.youtube.com/watch?v=KVXVxqocGCM&t=250s).
+Demo video can be found [here](https://www.youtube.com/watch?v=KVXVxqocGCM&t=250s). :movie_camera:
 
 ![Demo](source/Demo.gif)
 
-## Project Intro
+## Project Intro :dart:
 
 ![Pipeline](source/pipeline.png)
 
@@ -15,9 +15,9 @@ The whole pipelines are broken down into 4 stages:
   * Face Detection over the image
   * Feature Extraction for each faces (embeddings)
   * Train the classifier (use embeddings from previous stage as input)
-  * Deploy on WebCam (OpenCV)
+  * Deploy on WebCam (OpenCV) :computer:
   
-### Transform faces to embeddings :
+### Transform faces to embeddings : :100:
 
   `The best trick of this project could be nothing but this step, since we only need a much more smaller dataset thanks
   to this trick.`
@@ -34,7 +34,7 @@ The whole pipelines are broken down into 4 stages:
 
 For more details, please check the [project report](https://github.com/MaxHsu88/Real-Time-Face-Recognition-System/blob/master/project%20report.pdf)
 
-## Environment and Package required
+## Environment and Package required :sanke:
 
 Python version : `3.7.0`
 
@@ -43,11 +43,11 @@ Python version : `3.7.0`
 * dlib
 * scikit-learn
 
-## Future Works
+## Future Works :chart:
 
 Makes it practical in real life, such as letting users to build their own dataset and safety system, scanning face to unlock certain devices like PC, mobile phone or a gate.
 
-## Acknowledgement
+## Acknowledgement :bulb:
 
 * [Modern Face Recognition with Deep Learning (Medium)](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78) - This article will give you some intuition about face recognition.
 
