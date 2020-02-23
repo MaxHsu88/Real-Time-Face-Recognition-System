@@ -30,7 +30,7 @@ The whole pipelines are broken down into 4 stages:
   
 ![Network](source/network.png)
 
-For more details, please check the [project report](project report.pdf)
+For more details, please check the [project report](https://github.com/MaxHsu88/Real-Time-Face-Recognition-System/blob/master/project%20report.pdf)
 
 ## Environment and Package required
 
