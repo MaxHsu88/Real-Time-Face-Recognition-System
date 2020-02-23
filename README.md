@@ -34,7 +34,7 @@ The whole pipelines are broken down into 4 stages:
 
 For more details, please check the [project report](https://github.com/MaxHsu88/Real-Time-Face-Recognition-System/blob/master/project%20report.pdf)
 
-## Environment and Package required :sanke:
+## Environment and Package required :snake:
 
 Python version : `3.7.0`
 
@@ -43,7 +43,7 @@ Python version : `3.7.0`
 * dlib
 * scikit-learn
 
-## Future Works :chart:
+## Future Works :triangular_flag_on_post:
 
 Makes it practical in real life, such as letting users to build their own dataset and safety system, scanning face to unlock certain devices like PC, mobile phone or a gate.
 
