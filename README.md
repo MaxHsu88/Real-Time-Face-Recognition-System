@@ -3,6 +3,8 @@
 This project aims to build a real time system in not noly detecting human faces but also recognizing the identity of each face.
 Currently, this system is built on [self-collected datasets](my_own_dataset), in which are there 6 distinct figures, including myself, my partner, my lecturer and also 3 public figures.
 
+Demo video can be found [here](https://www.youtube.com/watch?v=KVXVxqocGCM&t=250s).
+
 ![Demo](source/Demo.gif)
 
 ## Project Intro
